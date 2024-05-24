@@ -4,20 +4,20 @@
 
 @font-face {
   font-family: 'kanit';
-  src: url("../Kanit/Kanit-Regular.ttf");
+  src: url("Kanit/Kanit-Regular.ttf");
 }
 @font-face {
   font-family: 'kanit';
-  src: url("../Kanit/Kanit-Bold.ttf");
+  src: url("Kanit/Kanit-Bold.ttf");
   font-weight: bold;
 }
 @font-face {
   font-family: 'kanit';
-  src: url("../Kanit/Kanit-Italic.ttf");
+  src: url("Kanit/Kanit-Italic.ttf");
   font-style: italic;
 }
 @font-face {
   font-family: 'kanit';
-  src: url("../Kanit/Kanit-Thin.ttf");
+  src: url("Kanit/Kanit-Thin.ttf");
   font-weight: light;
 }
